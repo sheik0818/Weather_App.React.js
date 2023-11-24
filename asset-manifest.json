@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sheik0818/Weather_App.React.js/static/css/main.04cb5e6d.css",
-    "main.js": "/sheik0818/Weather_App.React.js/static/js/main.dfa67c61.js",
-    "static/js/787.82cdd233.chunk.js": "/sheik0818/Weather_App.React.js/static/js/787.82cdd233.chunk.js",
-    "static/media/pexels-johannes-plenio-1118873.jpg": "/sheik0818/Weather_App.React.js/static/media/pexels-johannes-plenio-1118873.428112a29f0f80d0c2ec.jpg",
-    "index.html": "/sheik0818/Weather_App.React.js/index.html",
-    "main.04cb5e6d.css.map": "/sheik0818/Weather_App.React.js/static/css/main.04cb5e6d.css.map",
-    "main.dfa67c61.js.map": "/sheik0818/Weather_App.React.js/static/js/main.dfa67c61.js.map",
-    "787.82cdd233.chunk.js.map": "/sheik0818/Weather_App.React.js/static/js/787.82cdd233.chunk.js.map"
+    "main.css": "/Weather_App.React.js/static/css/main.3c773f27.css",
+    "main.js": "/Weather_App.React.js/static/js/main.8c53c781.js",
+    "static/js/787.82cdd233.chunk.js": "/Weather_App.React.js/static/js/787.82cdd233.chunk.js",
+    "static/media/pexels-johannes-plenio-1118873.jpg": "/Weather_App.React.js/static/media/pexels-johannes-plenio-1118873.428112a29f0f80d0c2ec.jpg",
+    "index.html": "/Weather_App.React.js/index.html",
+    "main.3c773f27.css.map": "/Weather_App.React.js/static/css/main.3c773f27.css.map",
+    "main.8c53c781.js.map": "/Weather_App.React.js/static/js/main.8c53c781.js.map",
+    "787.82cdd233.chunk.js.map": "/Weather_App.React.js/static/js/787.82cdd233.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04cb5e6d.css",
-    "static/js/main.dfa67c61.js"
+    "static/css/main.3c773f27.css",
+    "static/js/main.8c53c781.js"
   ]
 }
